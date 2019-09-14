@@ -1,9 +1,6 @@
 
 # Northwind Database Project 
 
-<img src='halfway-there.gif'>
-
-
 
 ### The Project
 
